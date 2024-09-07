@@ -1,6 +1,6 @@
-# Make It Real - NAME OF THE PROJECT
+# Make It Real - PRODUCT PREVIEW CARD
 
-This is a solution to the '**404 not found**' project of the Make It Real course.
+This is a solution to the '**Product Preview Card**' project of the Make It Real course.
 
 ## Table of contents
 

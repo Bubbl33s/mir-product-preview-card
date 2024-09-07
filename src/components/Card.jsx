@@ -3,22 +3,23 @@ import CardPayment from "./CardPayment";
 export default function Card() {
   return (
     <>
-      <div className="rounded-3xl mx-auto w-11/12 max-w-80 md:max-w-md bg-white text-center text-gray-500 font-medium text-sm md:text-base">
-        <header className="rounded-t-3xl overflow-hidden">
+      <div className="text-[15px] rounded-lg mx-auto max-w-96 md:max-w-md bg-white text-gray-500 font-medium md:text-base">
+        <header className="rounded-t-lg overflow-hidden">
           <img
-            src="/illustration-hero.svg"
+            src="/image-product-mobile.jpg"
             alt="Listening to music ilustration"
             className="w-full"
           />
         </header>
-        <div className="px-5 py-7 md:px-8">
+        <div className="px-[25px] py-7 md:px-8">
           <section>
-            <h1 className="font-black text-blue-950 text-xl md:text-2xl mb-3">
-              Order Summary
+            <p className="text-sm tracking-wider mb-2">P E R F U M E</p>
+            <h1 className="font-['Fraunces'] font-extrabold text-gray-800 text-3xl md:text-4xl mb-3">
+              Gabrielle Essence Eau De Parfum
             </h1>
-            <p className="w-10/12 mx-auto mb-5 md:w-full">
-              You can now listen to millions of songs, audiobooks, and podcasts
-              on any device anywhere you like!
+            <p className="mb-5">
+              A floral, solar and voluptuous interpretation composed by Olivier
+              Polge, Perfumer-Creator for the House of CHANEL.
             </p>
           </section>
           <CardPayment />
