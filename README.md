@@ -28,7 +28,7 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 
 ### Expected result
 
-<img src="./design/desktop-preview.jpg" width="70%" />
+<img src="./design/desktop-design.jpg" width="70%" />
 <img src="./design/mobile-design.jpg" width="27%" />
 <img src="./design/active-states.jpg" width="800px" />
 
