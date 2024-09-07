@@ -13,7 +13,7 @@ export default function Card() {
           <img
             src="/image-product-desktop.jpg"
             alt="Gabrielle Essence Eauy De Parfum"
-            className="hidden h-full lg:block"
+            className="hidden h-full lg:block rounded-s-lg"
           />
         </header>
         <div className="px-[25px] py-7 md:px-8 lg:w-3/4 lg:p-10">

@@ -20,7 +20,7 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 
 ### The challenge
 
-- Design a '**Order Summary Card**' page
+- Design a '**Product Preview Card**' page
 - The page should be responsive
 - Consider at least two devices:
   - Mobile: 375px
@@ -52,12 +52,10 @@ This is a solution to the '**Product Preview Card**' project of the Make It Real
 - Status
   <br />
   <img src="./design/status-1.png" width="32%" />
-  <img src="./design/status-2.png" width="32%" />
-  <img src="./design/status-3.png" width="32%" />
 
 ### Deploy
 
-**[Go to site](https://main--mir-order-summary-card.netlify.app/)** ↗️
+**[Go to site](https://main--cosmic-torrone-4cbe51.netlify.app/)** ↗️
 
 ## My process
 
